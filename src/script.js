@@ -41,5 +41,5 @@ function fight(player1, player2, player1Health, player2Health){
     }
 
 }
-console.log(isDead === true);
-//fight("Tiia", "Marvin", 152, 203);
+
+fight("Tiia", "Marvin", 152, 203);
